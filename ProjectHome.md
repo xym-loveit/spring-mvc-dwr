@@ -1,0 +1,1 @@
+A tutorial for integrating Spring MVC 3 and DWR 3 Integration Tutorial
